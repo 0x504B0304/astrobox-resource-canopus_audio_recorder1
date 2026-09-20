@@ -1,0 +1,36 @@
+{
+  "item": {
+    "id": "canopus_audio_recorder",
+    "restype": "canopus",
+    "name": "录音模块",
+    "description": "给快应用注入录音js api",
+    "preview": [
+      "media/VoiceRecorderLargeTile.scale-100_contrast-white.png"
+    ],
+    "icon": "media/VoiceRecorderLargeTile.scale-100_contrast-white.png",
+    "cover": "media/VoiceRecorderLargeTile.scale-100_contrast-white.png",
+    "author": [
+      {
+        "name": "null",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "0",
+      "file_name": "downloads/audio_recorder.canopus",
+      "versionCode": 1
+    }
+  },
+  "ext": {
+    "trialDownloads": {
+      "xmb10p": {
+        "version": "0",
+        "file_name": "downloads/trial/audio_recorder.canopus",
+        "versionCode": 1
+      }
+    }
+  }
+}
